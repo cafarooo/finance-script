@@ -28,5 +28,4 @@ def finance_script():
 
     wb.save()
 
-
 finance_script()
