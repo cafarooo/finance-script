@@ -27,5 +27,3 @@ def finance_script():
     wb = writer
 
     wb.save()
-
-finance_script()
